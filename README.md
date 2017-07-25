@@ -7,4 +7,5 @@
 
 --------------------------------------------------
 
-clip属性只能在元素设置了“position:absolute”或者“position:fixed”属性起作用著作权归作者所有。
+clip属性只能在元素设置了“position:absolute”或者“position:fixed”属性起作用 无法在relative和static上工作
+
